@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagendra M
-- 👀 I’m interested in Web development and Machine learning.
+- 👀 I’m interested in Springboot backend and Generative AI projects.
 - 😊 Pronoun:Full stack developer
 - 💞️ I’m looking to collaborate on any project related to webd and ml.
 - 📫 Reaching me through email nagendram399@gmail.com
